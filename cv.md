@@ -1,5 +1,5 @@
-# Curriculum Vitae
-![photo](/image/photo_2023-02-21_00-48-34.jpg "My photo")
+## Curriculum Vitae
+<img src="image/photo_2023-02-21_00-48-34.jpg" width="45%" height="45%" />
 
 ## Ivan Samolazov, 19 y.o
 
