@@ -3,10 +3,10 @@
 
 ## Ivan Samolazov, 19 y.o
 
-[Telegram](адрес "https://t.me/flapir")
+[Telegram](https://t.me/flapir "link")
 
 
-[Instagram](адрес "https://www.instagram.com/flap1r/")
+[Instagram](https://www.instagram.com/flap1r/ "link")
 
 isamolazov@gmail.com
 
